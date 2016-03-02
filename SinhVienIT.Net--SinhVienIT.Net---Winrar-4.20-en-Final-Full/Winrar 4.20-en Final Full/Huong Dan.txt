@@ -1,0 +1,14 @@
+Cac ban chon goi cai dat tuy theo Windows cua minh
+
+winrar-x86-420vn.exe la Win 32bit
+winrar-x64-420vn.exe la Win 64bit
+
+Cai xong, cac ban copy file rarreg.key vao thu muc cai dat
+
+"C:\Program Files\WinRAR"
+
+Xong. Mo Winrar vao About xem da crack dc chua
+
+Enjoy!!
+
+SinhvienIT.net - Dien dan sinh vien CNTT
